@@ -5,10 +5,6 @@
 💻 I am a Software Quality Analyst, originally from Brazil and currently living in Portugal, transitioning into the technology field. I have hands-on experience with REST API testing and using Postman. Additionally, I possess solid knowledge in SQL, enabling me to work with relational databases to ensure data integrity and accuracy. Currently, I am studying programming languages such as HTML, Java, and CSS to complement my technical skills and broaden my development knowledge.
 
 
-
-5![Kizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KizzyBarbosaQA&show_icons=true&theme=radical))
-
-
 ## 🔧 **Languages and tools**
 
  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -57,6 +53,7 @@
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kizzy-barbosa-283852209/)
 
+![Kizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KizzyBarbosaQA&show_icons=true&theme=radical)
 
 
 ##### Being a QA is always striving for excellence, identify risks, and ensuring delivery. Our mission is to transform challenges into robust and reliable solutions.
